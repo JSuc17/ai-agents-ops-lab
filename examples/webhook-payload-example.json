@@ -1,0 +1,21 @@
+{
+"workflowId": "wf-0001",
+"taskType": "deployment-status-update",
+"status": "running",
+"message": "Deployment workflow is currently running",
+"durationType": "short",
+"source": "orchestrator",
+"target": "power-automate",
+"createdAt": "2026-01-01T10:00:00Z",
+"updatedAt": "2026-01-01T10:05:00Z",
+"metadata": {
+"environment": "production",
+"service": "example-service",
+"deploymentCode": "DEP-0001"
+},
+"result": {
+"success": null,
+"details": "Workflow is still in progress"
+},
+"error": null
+}
